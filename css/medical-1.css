@@ -1,10 +1,10 @@
 .carousel img {
-    height: 300px;
+    height: 470px;
     object-fit: cover;
 }
 
 .property-summary {
-    padding: 24px;
+    padding: 20px;
 }
 
 .property-amenities,
